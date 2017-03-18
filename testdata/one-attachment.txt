@@ -1,0 +1,26 @@
+MIME-Version: 1.0
+Received: by 11.104.26.5 with HTTP; Mon, 2 Nov 2009 06:46:38 -0800 (PST)
+Date: Mon, 2 Nov 2009 16:46:38 +0200
+Delivered-To: recipient@bigmail.com
+Message-ID: <765bc16434328020646k7d451c07k6584ab32e8c6df79@mail.bigmail.com>
+Subject: uct
+From: Sender <sender@bigmail.com>
+To: Recipient <recipient@bigmail.com>
+Content-Type: multipart/mixed; boundary=001636c5b322e9c65b0489647146
+
+--001636c5b322e9c65b0489647146
+Content-Type: text/plain; charset=ISO-8859-1
+
+
+
+--001636c5b322e9c65b0489647146
+Content-Type: application/octet-stream; name="uct.zip"
+Content-Disposition: attachment; filename="uct.zip"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_g1jcgjo20
+
+UEsDBAoAAAAAACGickq85iwZCgAAAAoAAAAHABwAYWJjLnR4dFVUCQADnXnNWK15zVh1eAsAAQT1
+AQAABBQAAABzb21lIHRleHQKUEsBAh4DCgAAAAAAIaJySrzmLBkKAAAACgAAAAcAGAAAAAAAAAAA
+AKSBAAAAAGFiYy50eHRVVAUAA515zVh1eAsAAQT1AQAABBQAAABQSwUGAAAAAAEAAQBNAAAASwAA
+AAAA
+--001636c5b322e9c65b0489647146--
